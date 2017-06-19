@@ -3,7 +3,7 @@
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
     <div class="page-header">
-      <h3>Tambah Siswa</h3>
+      <h3>Tambah Siswas</h3>
     </div>
     <form  action="/create" method="post">
       {{csrf_field()}}
